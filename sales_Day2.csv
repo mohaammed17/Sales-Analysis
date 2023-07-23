@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Clothing,Ladies_Jeans,70,Charlie Wooden,VISA
+Clothing,Mens_Jeans,80,Matthew,MasterCard
+Clothing,NIKE_Running_Shoes,200,Matthew,MasterCard
+Stationary,Maped_Sketchpens,20,Matthew,VISA
+Clothing,VANS Backpack,125,Ridge June,VISA
+Stationary,POST-Its,5,Ridge June,MasterCard
+Stationary,FaberCastle_Pens,30,Ridge June,VISA
+Electronics,JBLBluetoothSpeakers,600,Ridge June,MasterCard
+Stationary,POST-Its,5,Joby George,MasterCard
+Stationary,Flamingo_Notebook,50,Joby George,MasterCard
+Electronics,XBOX One,2000,Joby George,MasterCard
+Electronics,HP_Envy_Laptop,2300,Matthew,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Matthew,MasterCard
+Stationary,Maped_Sketchpens,20,Matthew,VISA
+Stationary,POST-Its,5,Warner Kent,MasterCard
+Electronics,HP_Envy_Laptop,2300,Andy Knit,VISA
+Grocery,Cabbage,50,Jeff Jefferson,MasterCard
+Grocery,Tomato,40,Jeff Jefferson,VISA
+Stationary,FaberCastle_Pens,30,Andy Knit,VISA
+Clothing,Mens_Jeans,80,Charlie Wooden,MasterCard

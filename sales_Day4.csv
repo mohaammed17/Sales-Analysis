@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Clothing,Mens_Jeans,80,Matthew,MasterCard
+Stationary,POST-Its,5,Matthew,MasterCard
+Stationary,Maped_Sketchpens,20,Matthew,VISA
+Grocery,Potato,65,Charlie Wooden,MasterCard
+Grocery,Cabbage,50,Charlie Wooden,MasterCard
+Grocery,Tomato,40,Matthew,VISA
+Stationary,Maped_Sketchpens,20,Matthew,VISA
+Grocery,Cabbage,50,Joby George,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Joby George,MasterCard
+Clothing,NIKE_Running_Shoes,200,Joby George,MasterCard
+Stationary,Flamingo_Notebook,50,Joby George,MasterCard
+Clothing,Mens_Jeans,80,Joby George,MasterCard
+Stationary,FaberCastle_Pens,30,Matthew,VISA
+Clothing,Ladies_Jeans,70,Anne Garfeild,VISA
+Grocery,Cabbage,50,Anne Garfeild,MasterCard
+Grocery,Potato,65,Anne Garfeild,MasterCard
+Electronics,SamsungS10+,3000,Andrew Bottom,MasterCard
+Grocery,Tomato,40,Andrew Bottom,VISA
+Grocery,Potato,65,Andrew Bottom,MasterCard
+Electronics,HP_Envy_Laptop,2300,Andrew Bottom,MasterCard

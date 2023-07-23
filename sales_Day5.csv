@@ -1,0 +1,21 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Clothing,Mens_Jeans,80,Joby George,MasterCard
+Clothing,VANS Backpack,125,Joby George,VISA
+Stationary,POST-Its,5,Joby George,MasterCard
+Electronics,XBOX One,2000,Joby George,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Joby George,MasterCard
+Grocery,Tomato,40,Ridge June,VISA
+Grocery,Potato,65,Andrew Bottom,MasterCard
+Grocery,Cabbage,50,Andrew Bottom,MasterCard
+Stationary,Maped_Sketchpens,20,Andrew Bottom,VISA
+Stationary,FaberCastle_Pens,30,Andrew Bottom,VISA
+Electronics,HP_Envy_Laptop,2300,Anne Garfeild,VISA
+Electronics,XBOX One,2000,Anne Garfeild,MasterCard
+Stationary,Flamingo_Notebook,50,Anne Garfeild,MasterCard
+Stationary,Maped_Sketchpens,20,Jeff Jefferson,VISA
+Stationary,FaberCastle_Pens,30,Jeff Jefferson,VISA
+Grocery,Cabbage,50,Jeff Jefferson,MasterCard
+Grocery,Tomato,40,Jeff Jefferson,VISA
+Grocery,Cabbage,50,Matthew,MasterCard
+Stationary,Flamingo_Notebook,50,Charlie Wooden,MasterCard
+Stationary,FaberCastle_Pens,30,Charlie Wooden,VISA

@@ -1,0 +1,20 @@
+Item_Category,Item_Name,Price,Customer,Card_Type
+Electronics,HP_Envy_Laptop,2300,Joby George,MasterCard
+Grocery,Potato,65,Joby George,VISA
+Grocery,Tomato,40,Joby George,VISA
+Clothing,Mens_Jeans,80,Jeff Jefferson,MasterCard
+Electronics,SamsungS10+,3000,Jeff Jefferson,VISA
+Grocery,Tomato,40,Jeff Jefferson,VISA
+Grocery,Potato,65,Jeff Jefferson,MasterCard
+Clothing,Ladies_Jeans,70,Charlie Wooden,VISA
+Electronics,SamsungS10+,3000,Charlie Wooden,MasterCard
+Stationary,FaberCastle_Pens,30,Andrew Bottom,VISA
+Stationary,Flamingo_Notebook,50,Andrew Bottom,MasterCard
+Clothing,Mens_Jeans,80,Andrew Bottom,MasterCard
+Clothing,NIKE_Running_Shoes,200,Andrew Bottom,MasterCard
+Clothing,Mens_Jeans,80,Andrew Bottom,MasterCard
+Stationary,Maped_Sketchpens,20,Ridge June,VISA
+Electronics,SamsungS10+,3000,Ridge June,VISA
+Stationary,Flamingo_Notebook,50,Ridge June,MasterCard
+Electronics,JBLBluetoothSpeakers,600,Anne Garfeild,MasterCard
+Stationary,FaberCastle_Pens,30,Anne Garfeild,VISA
